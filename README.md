@@ -1,5 +1,8 @@
 # crxML
 Supervised Machine Learning with Credit Approval Data
+Python3
+
+No requirements file. You need pandas and sklearn installed.
 
 This project uses supervised machine learning algorithms to predict if someone should be approved for a credit card. The data comes from the UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Credit+Approval). I converted the .data file into a .csv for simplicity.
 
